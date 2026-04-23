@@ -1,0 +1,11 @@
+*.local.md
+*.local.json
+.env
+.env.*
+*.credentials
+*.secret
+*_token.json
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
